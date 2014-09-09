@@ -1,7 +1,7 @@
 MunSeeker Greenhouse Mk1 TAC
 ============================
 
-A greenhouse designed for TAC Life Support (version 0.9 and up), based on the stock Cupola model. Converts Electricity (a lot), Waste, Carbon Dioxide and Waste Water to Food. 
+A greenhouse designed for TAC Life Support (version 0.9 and up), based on the stock Cupola model.
 
 Converts Electricity (a lot), Waste, Carbon Dioxide and Waste Water to Food. 
 
@@ -9,7 +9,7 @@ There is some loss in this process, so the crew will still need to be supplied. 
 
 Growing food in a cramped greenhouse in zero G is energy intensive. One greenhouse uses about 1.4 Electrical Units per second, or about 5000 per hour (the RTG produces about 0.75/second, so two RTG could supply one greenhouses).
 
-My goal was to realistically extend the food supply for a crew of kerbonauts without completely removing the need of regular resupply missions. This is a good companion to the TAC Carbon Extractor and Water Purifier. The greenhouse is heavy (6 tons) and needs oodles of energy, so its use needs careful consideration.
+My goal was to realistically extend the food supply for a crew of kerbonauts without completely removing the need of regular resupply missions. This is a good companion to the TAC Carbon Extractor and Water Purifier. The greenhouse is heavy (6 tons) and needs oodles of energy, so its use needs careful consideration - especially if you expect to spend a long time in darkness, like on the Mun.
 
 http://imgur.com/a/saTQp
 
