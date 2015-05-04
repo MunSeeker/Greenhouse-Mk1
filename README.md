@@ -1,7 +1,7 @@
 MunSeeker Greenhouse Mk1 TAC
 ============================
 
-A greenhouse designed for TAC Life Support (version 0.9 and up), based on the stock Cupola model.
+A greenhouse designed for TAC Life Support (version 1.0 and up), based on the stock Cupola model.
 
 Converts Electricity (a lot), Waste, Carbon Dioxide and Waste Water to Food. 
 
